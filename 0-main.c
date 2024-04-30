@@ -10,7 +10,10 @@
 int main(void)
 {
 	int array[] = {19, 48, 99, 71, 13, 52, 96, 73, 86, 7};
+    /*int array2[] = {16, 14, 5, 6, 8};*/
+    /*int array2[] = {2, 3, 5, 6, 8};*/
 	size_t n = sizeof(array) / sizeof(array[0]);
+    /*size_t n2 = sizeof(array2) / sizeof(array2[0]);*/
 
 	print_array(array, n);
 	printf("\n");

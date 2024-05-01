@@ -16,7 +16,7 @@ void quick_sort(int *array, size_t size)
 }
 
 /**
- * quick_sort_recursive - sorts a subarray of integers
+ * quick_sort_recursion - sorts a subarray of integers
  * using quick sort algorithm
  * @array: array to be sorted
  * @low: starting index of the subarray
